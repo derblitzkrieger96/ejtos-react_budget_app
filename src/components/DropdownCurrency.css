@@ -1,0 +1,9 @@
+.dropdown{
+    background-color: rgb(116, 223, 116);
+    color:#fff
+}
+
+#currency-dropdown{
+    background-color: rgb(116, 223, 116);
+    border: none;
+}
